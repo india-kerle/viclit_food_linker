@@ -48,7 +48,7 @@ The datasets come from two sources:
 
 ```
 @misc{Scraped Food.com recipes,
-    author       = {Shuyang},
+    author       = {Shuyang Li},
     title        = {{Food.com Recipes and Interactions}},
     year         = 2019,
     publisher    = {Kaggle},
