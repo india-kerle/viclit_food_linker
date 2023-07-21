@@ -3,7 +3,7 @@
 This repo contains the scripts needed to generate training data to train an entity linker to disambiguate mentions of cake in victorian literature
 to food.com cake recipes (and generate more training data to improve [FoodBERT](https://huggingface.co/Dizex/FoodBaseBERT-NER), a fine-tuned BERT model to use for Named Entity Recognition of Food entities).
 
-This is purely illustrative to experiment with: 
+This is relatively non-sensical and purely illustrative to experiment with: 
 
 1. Writing a custom prodigy recipe;
 2. `spacy-huggingface-pipelines`;
