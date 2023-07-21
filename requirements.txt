@@ -1,0 +1,5 @@
+transformers
+pandas 
+spacy
+spacy-transformers
+spacy-huggingface-pipelines
