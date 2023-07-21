@@ -12,9 +12,8 @@ import os
 
 random_state = 43
 data_path = Path.cwd() / 'data'
-unformatted_training_data = data_path / 'victorian_lit.csv'
 
-data_path = Path.cwd() / 'data'
+unformatted_training_data = data_path / 'victorian_lit.csv'
 cake_recipes = data_path / 'cake_recipes.csv'
 
 if __name__ == '__main__':
