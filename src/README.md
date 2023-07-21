@@ -23,7 +23,7 @@ python src/create_kb.py
 ```
 
 
-## 🌒 Running prodigy recipe 
+### 🌒 Running prodigy recipe 
 
 Run custom recipe locally:
 

@@ -31,3 +31,27 @@ pip install -r requirements.txt #install other dependencies
 1. Train entity linker
 2. further fine-tune FoodBERT
 
+## Citation
+
+The datasets come from two sources:
+
+```
+@misc{VictorianLit,
+    author       = {Hoyeol Kim},
+    title        = {{VictorianLit Dataset for Machine Learning-Based Sentiment Analysis of Victorian Literary Texts}},
+    month        = Sep,
+    year         = 2020,
+    publisher    = {GitHub},
+    url          = {https://github.com/elibooklover/VictorianLit}
+    }
+```
+
+```
+@misc{VictorianLit,
+    author       = {Shuyang},
+    title        = {{Food.com Recipes and Interactions}},
+    year         = 2019,
+    publisher    = {Kaggle},
+    url          = {https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions}
+    }
+```
