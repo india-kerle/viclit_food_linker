@@ -1,0 +1,15 @@
+#ignore DS store
+.DS_Store
+
+#ignore pycache
+__pycache__
+
+#don't add the kb
+cake_kb/
+
+# Ignore all files in the data directory
+data/*
+
+# Except for these specific files
+!data/cake_recipes.csv
+!data/victorian_lit.csv
